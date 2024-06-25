@@ -2,15 +2,15 @@
 multi
 
 <div id="multi" dir="rtl"> 
-<h1> 💚 وب سایت V P N  
+<h1> 💚 خرید وی پی ان  V P N  
 <h6> فقط طی ۳ دقیقه! خرید آنلاین وی پی ان (فیلتر شکن) 🚀 تحویل خودکار </h6>
-<a dir="rtl" target="_blank" href="https://multivpd.site/pricing.php" rel="dofollow" dir="rtl" align="right"> ☑️ https://multivpd.site/pricing.php </a>
+<a dir="rtl" target="_blank" href="" rel="dofollow" dir="rtl" align="right"> ☑️ multivpd.site pricing.php </a>
 <br> &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣  </h1>
 
 <hr>
 
 <h2> 💛 چت آنلاین <h6> پشتیبانان ما در کمتر از 1 دقیقه پاسخگوی شما هستند </h6> 
-<a dir="rtl" target="_blank" href="https://multivpd.site/pay/direct.php?card=1&qty=1" rel="dofollow" target="_blank" dir="rtl" align="right"> ☑️ کلیک جهت چت آنلاین </a></h3>
+<a dir="rtl" target="_blank" href="?card=1&qty=1" rel="dofollow" target="_blank" dir="rtl" align="right"> ☑️ کلیک جهت چت آنلاین </a></h3>
 
  <hr>
 
@@ -20,7 +20,7 @@ multi
 
 
 <br> <br> <br> <br> <br> <br>
-<center><a><img src="https://multivpd.site/pay/statics/image/perfect.gif" width="30%" align="center"></a></center>
+<center><a><img src="/pay/statics/image/perfect.gif" width="30%" align="center"></a></center>
 
 
 🔆 خرید آنلاین و سریع فیلترشکن (۳ دقیقه) ⤹
@@ -47,7 +47,7 @@ multi
 <br>
 💚 خرید وی پی ان ⤹ کلیک کنید ↓
 <br>
-<a dir="rtl" target="_blank" href="https://multivpd.site/pricing.php" rel="dofollow" dir="rtl" align="right"> ☑️ https://multivpd.site/pricing.php </a>
+<a dir="rtl" target="_blank" href="" rel="dofollow" dir="rtl" align="right"> ☑️ pricing.php </a>
 <br> &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ 
 
 
